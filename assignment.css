@@ -1,0 +1,16 @@
+@font-face {
+    font-family: aafrin;
+    src: url(font/hading/Salt\ Debris\ \(4\).otf);
+}
+
+
+
+
+h1{color: blueviolet;
+    font-size: 24px; 
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-family:aafrin;
+}
+p{text-align: right;}
