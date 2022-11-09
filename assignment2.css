@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    text-align: justify;
+    font-size: 30px ;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    
+    text-shadow: 3px 2PX 2PX pink;
+}
+
+p{
+    text-decoration: double;
+    text-transform: capitalize;letter-spacing: 1px;
+    word-spacing: 10px;
+}
